@@ -40,7 +40,7 @@ A simple Tic Tac Toe game built using the Kivy framework in Python.
 6. Click the "Restart the game" button to start a new game.
 
 ## Navigate to the apk file.
-   you can download the .apk file directly from [Google Drive](https://drive.google.com/drive/folders/1N6CsUKOq2y4Cb7n2wYVMHRkkn7hqEpbF)
+   you can download the .apk file directly from [Google Drive](https://drive.google.com/file/d/1bF_N-6x1b2xDn4KJSkI__F1pNiz8Zsss/view?usp=drive_link)
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
