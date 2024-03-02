@@ -39,6 +39,9 @@ A simple Tic Tac Toe game built using the Kivy framework in Python.
 5. The game will announce the winner or declare a tie.
 6. Click the "Restart the game" button to start a new game.
 
+## Navigate to the apk file.
+   you can download the .apk file directly from [Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE). 
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
